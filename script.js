@@ -9,7 +9,7 @@
  * - Scroll-based navigation highlighting
  * - Form handling
  * 
- * @author John Doe
+ * @author adty
  * @version 1.0
  */
 
