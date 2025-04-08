@@ -1,36 +1,50 @@
-# Portfolio Demo
+# 🌐 Portfolio Demo
 
-This is a **Portfolio Demo** project created as part of the **Web Programming** course assignment. It is a responsive portfolio website showcasing projects, skills, and contact information.
+This is a **Portfolio Demo** project created as part of the **Web Programming** course assignment. It is a responsive personal portfolio website showcasing your projects, skills, and contact information.
 
-## Features
+---
 
-- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
-- **Dark/Light Theme**: Toggle between dark and light modes with preferences saved in `localStorage`.
-- **Project Filtering**: Filter projects by categories (HTML, CSS, JavaScript).
-- **Typing Animation**: Dynamic typing effect in the hero section.
-- **Interactive Navigation**: Scroll-based navigation highlighting and smooth scrolling.
-- **Contact Form**: Functional contact form with validation.
+## 🚀 Features
 
-## Technologies Used
+- ✅ **Responsive Design** – Adapts to desktop, tablet, and mobile devices.
+- 🌙 **Dark/Light Mode** – Toggle theme with preference saved using `localStorage`.
+- 🎯 **Project Filtering** – Filter projects by categories (HTML, CSS, JavaScript).
+- ⌨️ **Typing Animation** – Hero section features dynamic typing effect.
+- 🔗 **Interactive Navigation** – Smooth scrolling and active link highlighting based on scroll position.
+- 📬 **Contact Form** – Simple contact form with input validation.
 
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling and animations.
-- **JavaScript**: For interactivity and dynamic content.
-- **Font Awesome**: For icons.
-- **Google Fonts**: For typography.
+---
 
-## How to Run
+## 🛠️ Technologies Used
 
-1. Clone the repository or download the ZIP file.
+- **HTML5** – Semantic structure and layout.
+- **CSS3** – Styling, responsive layout, and animations.
+- **JavaScript (Vanilla)** – DOM manipulation and feature interactivity.
+- **Font Awesome** – Icon set for visual enhancement.
+- **Google Fonts** – Custom typography for modern design.
+
+---
+
+## 📂 Project Structure
+
+```
+demo_js/
+├── index.html        # Main HTML file
+├── styles.css        # Stylesheet for layout and theming
+├── script.js         # JavaScript for interactivity
+├── assets/           # Folder containing images and media
+└── README.md         # Project documentation (this file)
+```
+
+---
+
+## ▶️ How to Run
+
+1. Clone this repository or download the ZIP:
    ```bash
    git clone https://github.com/kudith/demo_js_pweb.git
-2. Open the index.html file in your browser.
+   ```
 
-## Project Structure
-demo_js/
-├── [index.html](http://_vscodecontentref_/1)       # Main HTML file
-├── [styles.css](http://_vscodecontentref_/2)       # CSS file for styling
-├── [script.js](http://_vscodecontentref_/3)        # JavaScript file for interactivity
-├── assets/          # Folder for images and other assets
-└── [README.md](http://_vscodecontentref_/4)        # Project documentation
+2. Open the `index.html` file in your preferred browser.
 
+---
